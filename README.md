@@ -1,5 +1,4 @@
 # Wikipedia_Scraper-_Project
-Datascience project
 
 First Scraper Project
 
